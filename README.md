@@ -45,7 +45,7 @@ research = {
 | Project | What it is |
 |---|---|
 | [quantum-qsvm-qcd](https://github.com/0Shunya0/quantum-qsvm-qcd) | Quantum kernel + VQE methods for QCD observables |
-| [qslrm](https://github.com/0Shunya0/qslrm) | Quantum supervised learning repo |
+| [qslrm](https://github.com/0Shunya0/qslrm) |Reproducibility framework for quantum simulation experiments  |
 
 ---
 
