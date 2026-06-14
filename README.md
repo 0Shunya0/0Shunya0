@@ -51,9 +51,9 @@ research = {
 
 ## Find me
 
-[![Email](https://img.shields.io/badge/email-reach_me-red?style=flat&logo=gmail)](mailto:karthikeya.machiraju@pes.edu)
+[![Email](https://img.shields.io/badge/email-reach_me-red?style=flat&logo=gmail)](mailto:karthikeyamachiraju005@gmail.com)
 &nbsp;·&nbsp;
-[Portfolio](https://0shunya0.github.io/portfolio)
+<[Portfolio](https://0shunya0.github.io/portfolio)>
 
 ---
 
