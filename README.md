@@ -12,10 +12,11 @@ Working at the intersection of **lattice gauge theories** and **near-term quantu
 ```python
 research = {
     "primary":  "Quantum simulation of lattice gauge theories",
+    "current":  "Schwinger model via VQE; Floquet time crystals; open quantum systems",
     "methods":  ["VQE", "Floquet dynamics", "Lindblad open systems", "tensor networks"],
     "hardware": ["Qiskit/IBM Quantum", "photonic platforms"],
     "goal":     "Real-time LGT dynamics beyond classical reach",
-    "status":   "manuscripts_in_progress  # ask me"
+    "status":   "papers_under_review  # ask me"
 }
 ```
 
@@ -45,7 +46,7 @@ research = {
 | Project | What it is |
 |---|---|
 | [quantum-qsvm-qcd](https://github.com/0Shunya0/quantum-qsvm-qcd) | Quantum kernel + VQE methods for QCD observables |
-| [qslrm](https://github.com/0Shunya0/qslrm) |Reproducibility framework for quantum simulation experiments  |
+| [qslrm](https://github.com/0Shunya0/qslrm) | Reproducibility framework for quantum simulation experiments |
 
 ---
 
@@ -53,6 +54,7 @@ research = {
 
 [![Email](https://img.shields.io/badge/email-reach_me-red?style=flat&logo=gmail)](mailto:karthikeyamachiraju005@gmail.com)
 &nbsp;·&nbsp;
+[Portfolio](https://0shunya0.github.io/)
 
 ---
 
