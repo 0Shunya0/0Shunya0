@@ -2,8 +2,7 @@
 
 > *Trying to simulate the universe, one qubit at a time.*
 
-Quantum computing researcher @ **PES University Bengaluru**  
-Working at the intersection of **lattice gauge theories** and **near-term quantum hardware**
+Working at the intersection of lattice gauge theories and near-term quantum hardware
 
 ---
 
@@ -11,12 +10,11 @@ Working at the intersection of **lattice gauge theories** and **near-term quantu
 
 ```python
 research = {
-    "primary":  "Quantum simulation of lattice gauge theories",
-    "current":  "Schwinger model via VQE; Floquet time crystals; open quantum systems",
-    "methods":  ["VQE", "Floquet dynamics", "Lindblad open systems", "tensor networks"],
-    "hardware": ["Qiskit/IBM Quantum", "photonic platforms"],
-    "goal":     "Real-time LGT dynamics beyond classical reach",
-    "status":   "papers_under_review  # ask me"
+    "primary":  "Quantum computation for physics",
+    "current":  "Quantum simulation, many-body dynamics, lattice gauge theories",
+    "methods":  ["VQE", "quantum machine learning", "Floquet dynamics", "open quantum systems"],
+    "platforms":["Qiskit", "IBM Quantum", "photonic quantum technologies"],
+    "goal":     "Using quantum computers to study physical systems that challenge classical simulation"
 }
 ```
 
