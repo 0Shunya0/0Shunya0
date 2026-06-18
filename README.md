@@ -1,9 +1,8 @@
 # Hey, I'm Karthikeya
 
 > *Trying to simulate the universe, one qubit at a time.*
-
-Working at the intersection of lattice gauge theories and near-term quantum hardware
-
+Quantum computing researcher @ PES University Bengaluru
+Interested in quantum simulation, quantum algorithms, and computational physics
 ---
 
 ## Research
