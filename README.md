@@ -3,6 +3,7 @@
 > *Trying to simulate the universe, one qubit at a time.*
 
 Quantum computing researcher @ PES University Bengaluru
+
 Interested in quantum simulation, quantum algorithms, and computational physics
 ---
 
